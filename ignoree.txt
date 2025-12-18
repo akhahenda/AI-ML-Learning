@@ -1,0 +1,13 @@
+# data
+projects/**/data/raw/
+projects/**/data/processed/
+
+# models
+projects/**/models/
+
+# notebooks checkpoint
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
