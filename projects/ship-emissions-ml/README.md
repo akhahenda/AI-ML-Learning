@@ -2,8 +2,8 @@
 
 ## Objective
 Build ML models to predict:
-1) HOURLY_EMISSIONS and/or
-2) TOTAL_EMISSIONS
+1) HOURLY_CO2_EMISSIONS and/or
+2) TOTAL_CO2_EMISSIONS
 
 from vessel + operational features (e.g., SOG, RPM, engine load, TEU band, age, DWT).
 
